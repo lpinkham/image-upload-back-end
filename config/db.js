@@ -1,7 +1,7 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'the-coherent-chickens-express'
+const mongooseBaseName = 'image-upload'
 
 // create the mongodb uri for development and test
 const database = {
